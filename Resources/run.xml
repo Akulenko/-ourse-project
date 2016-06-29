@@ -1,0 +1,27 @@
+﻿<xml>
+  <!-- user account settings -->
+  <admin.username>qa149test</admin.username>
+  <admin.password>qa149testpw</admin.password>
+
+  <!-- browser settings -->
+  <browser>chrome</browser>
+
+  <!-- user account settings -->
+  <email>tanzilya@tut.by</email>
+  <password>123456</password>
+  <username>tanzilya</username>
+
+  <!-- serach value settings -->
+  <search_text>nokia lumia 720</search_text>
+
+  <!-- parameters weather of city settings -->
+  <weather_city>Могилев</weather_city>
+  
+  <!-- parameters product settings -->
+  <product>Мобильные телефоны</product>
+  <model>Samsung</model>
+  <from_diagonal>39"</from_diagonal>
+  <till_diagonal>42"</till_diagonal>
+  <till_price>27</till_price>
+  <data_entry>2013</data_entry>
+</xml>
